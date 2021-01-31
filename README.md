@@ -4,6 +4,3 @@
 ## contributors
 -Brian
 -Levy
-
-
-helolo
